@@ -4,28 +4,28 @@ import { fileURLToPath } from 'url'
 
 // Untuk setting owner, author dll, sekarang di pindhkan, kalian bisa mengunakan fitur seperti .setowner dll untuk melakukan setting
 // Real Owner moved to db.data.datas.rowner, kalian juga bisa mengunakan command untuk menambah owner,rowner
-global.mods = ['6283833771101']
-global.wm = '\n©Victoria Rosalind By Aubert'
+global.mods = ['6281332383711']
+global.wm = '\n©Ann-Tanathea Recode By Tana'
 
 // WAJIB DI ISI!!
-global.MaelynKEY = '' // Daftar Di https://api.maelyn.my.id
-global.licenseKey = '' // Isi Dengan LicensiKeys Dari Admin
+global.MaelynKEY = '9eTYpiHjFW' // Daftar Di https://api.maelyn.my.id
+global.licenseKey = 'VR-HAFRS72' // Isi Dengan LicensiKeys Dari Admin
 
 // Information
-global.author = 'Clayza'
-global.namebot = 'Victoria Rosalind';
-global.stickpack = '​©Victoria Rosalind'
-global.stickauth = `By Aubert`
+global.author = 'Tana'
+global.namebot = 'Ann-Tanathea';
+global.stickpack = '​©Ann-Tanathea'
+global.stickauth = `By Tana`
 global.myweb = 'https://maelyn.my.id';
 global.myGroup = 'https://chat.whatsapp.com/DvywZlJ8ggyK8t3XxSJC6H';
-global.myChannel = 'https://www.whatsapp.com/channel/0029VaAftonBPzjPgb1cSH33';
+global.myChannel = '-';
 global.thumb = 'https://cdn.jsdelivr.net/gh/ClayzaAubert/library/media/pixelart-006.jpg';
 
 // Message
 global.what = '*Ada Yang Bisa saya bantu?*'
 global.wait = '*_Processing, Please Wait...._*';
 global.eror = '*_Error, Please Try Again Later_*';
-global.whatchat = '*_Can Maelyn help you?_*';
+global.whatchat = '*_Can Ann-Tanathea help you?_*';
 global.whatimage = '*_Upload a photo or reply to a photo?_*';
 
 ///STORY RPG [PLEASE DONT REMOVE]///
